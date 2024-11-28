@@ -8,3 +8,5 @@ I'm Nicolas Carol from <img src="https://kapowaz.github.io/square-flags/flags/ar
 
 
 Currently working in a presonal project called Moovin, an EDM Ticket Booking App
+
+![Discord](https://img.shields.io/badge/dinosaur.jr-discord?style=social&logo=discord&color=%231e2124)
